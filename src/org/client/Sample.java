@@ -4,7 +4,7 @@ public class Sample {
 	private void session() {
 		// TODO Auto-generated method stub
 		byte age = 127;
-		byte age1 =101;
+		
 		short empId = 32767;
 		int rollNum = 123456789;
 		long phNo = 9894740209l;
